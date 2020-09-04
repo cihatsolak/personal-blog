@@ -1,0 +1,24 @@
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DTO\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.deps.json
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DTO\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.dll
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DTO\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.pdb
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DTO\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.Entities.dll
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DTO\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.Entities.pdb
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DTO\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.csprojAssemblyReference.cache
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DTO\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.AssemblyInfoInputs.cache
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DTO\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.AssemblyInfo.cs
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DTO\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.csproj.CoreCompileInputs.cache
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DTO\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.csproj.CopyComplete
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DTO\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.dll
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DTO\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.pdb
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DTO\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.deps.json
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DTO\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.dll
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DTO\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.pdb
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DTO\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.Entities.dll
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DTO\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.Entities.pdb
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DTO\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.csprojAssemblyReference.cache
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DTO\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.AssemblyInfoInputs.cache
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DTO\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.AssemblyInfo.cs
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DTO\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.csproj.CoreCompileInputs.cache
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DTO\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.csproj.CopyComplete
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DTO\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.dll
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DTO\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DTO.pdb

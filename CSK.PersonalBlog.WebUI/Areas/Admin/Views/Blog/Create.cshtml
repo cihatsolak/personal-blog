@@ -1,0 +1,19 @@
+﻿@model BlogModel
+@{
+    ViewData["Title"] = "Yeni Gönderi Oluştur";
+}
+
+@section PageSpecificCss{
+    <link href="~/lib/trumbowyg-master/dist/ui/trumbowyg.min.css" rel="stylesheet" />
+}
+
+<form asp-action="Create" class="p-3 w-100" method="post" enctype="multipart/form-data">
+    @await Html.PartialAsync("_CreateOrUpdate", Model)
+</form>
+
+@section PageSpecificJs{
+    <script src="~/lib/trumbowyg-master/dist/trumbowyg.min.js"></script>
+    <script type="text/javascript">
+        $("#@Html.IdFor(i=>i.Description)").trumbowyg();
+    </script>
+}

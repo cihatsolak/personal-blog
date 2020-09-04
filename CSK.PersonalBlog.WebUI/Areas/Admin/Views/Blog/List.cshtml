@@ -1,0 +1,49 @@
+﻿@model List<BlogViewModel>
+@{
+    ViewData["Title"] = "Blog Listesi";
+}
+
+<a asp-action="Create" class="btn btn-success btn-sm my-3">
+    <i class="fas fa-clipboard-check mr-1"></i>
+    Yeni Blog Yaz
+</a>
+
+@if (0 >= Model.Count)
+{
+    <div class="alert alert-primary" role="alert">
+        Gönderi bulunamadı.
+    </div>
+}
+else
+{
+    <table class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Başlık</th>
+                <th>Kategori İşlemleri</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var blog in Model)
+            {
+                <tr>
+                    <td>@blog.Title</td>
+                    <td>
+                        <a asp-action="AssignCategory" asp-route-id="@blog.Id">Kategori Ata</a>
+                    </td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@blog.Id" class="btn btn-info btn-sm">
+                            <i class="fas fa-pen mr-1"></i>
+                            Düzenle
+                        </a>
+                        <a asp-action="Delete" asp-route-id="@blog.Id" class="btn btn-danger btn-sm">
+                            <i class="fas fa-trash-alt mr-1"></i>
+                            Sil
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

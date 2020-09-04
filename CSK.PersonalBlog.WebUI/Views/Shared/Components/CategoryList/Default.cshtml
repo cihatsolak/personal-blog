@@ -1,0 +1,33 @@
+﻿@model List<CategoryWithBlogsCountViewModel>
+@{
+    int selectedCategoryId = 0;
+
+    if (TempData["categoryId"] != null)
+    {
+        selectedCategoryId = int.Parse(TempData["categoryId"].ToString());
+    }
+}
+
+<div class="card my-4">
+    <h5 class="card-header">Kategoriler</h5>
+    <div class="list-group">
+        @if (Model?.Count > 0)
+        {
+            foreach (var category in Model)
+            {
+                <a asp-controller="Blog" asp-action="List" asp-route-categoryId="@category.Id"
+                   class="@( selectedCategoryId == category.Id ? "active" : "") list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+                    @category.Name
+                    <span class="badge badge-warning badge-pill">@category.BlogsCount</span>
+                </a>
+            }
+        }
+        else
+        {
+            <div class="alert alert-dismissible alert-danger">
+                <button type="button" class="close" data-dismiss="alert">&times;</button>
+                <strong>Opps!</strong> Herhangi bir kategori bulunamadı.
+            </div>
+        }
+    </div>
+</div>

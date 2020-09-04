@@ -1,0 +1,30 @@
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DataAccess\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.deps.json
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DataAccess\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.runtimeconfig.json
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DataAccess\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.runtimeconfig.dev.json
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DataAccess\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.dll
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DataAccess\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.pdb
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DataAccess\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.Entities.dll
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DataAccess\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.Entities.pdb
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DataAccess\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.csprojAssemblyReference.cache
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DataAccess\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DataAccess\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.AssemblyInfo.cs
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DataAccess\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DataAccess\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.csproj.CopyComplete
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DataAccess\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.dll
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DataAccess\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.pdb
+C:\Users\CihatSolak\source\repos\PersonalBlog\CSK.PersonalBlog.DataAccess\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.genruntimeconfig.cache
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DataAccess\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.deps.json
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DataAccess\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.runtimeconfig.json
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DataAccess\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.runtimeconfig.dev.json
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DataAccess\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.dll
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DataAccess\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.pdb
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DataAccess\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.Entities.dll
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DataAccess\bin\Debug\netcoreapp3.1\CSK.PersonalBlog.Entities.pdb
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DataAccess\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.csprojAssemblyReference.cache
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DataAccess\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.AssemblyInfoInputs.cache
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DataAccess\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.AssemblyInfo.cs
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DataAccess\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DataAccess\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.csproj.CopyComplete
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DataAccess\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.dll
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DataAccess\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.pdb
+C:\Users\CihatSolak\Desktop\DERS\PROJE GELİŞTİREREK ASP.NET CORE MVC APİ ÖĞRENİN A-Z\PersonalBlog\CSK.PersonalBlog.DataAccess\obj\Debug\netcoreapp3.1\CSK.PersonalBlog.DataAccess.genruntimeconfig.cache

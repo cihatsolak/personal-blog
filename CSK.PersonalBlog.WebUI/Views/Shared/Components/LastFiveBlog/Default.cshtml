@@ -1,0 +1,19 @@
+﻿@model List<BlogViewModel>
+
+<div class="card my-4">
+    <h5 class="card-header">Son Gönderiler</h5>
+    <div class="card-body">
+        @foreach (var blog in Model)
+        {
+        <p>
+            <a asp-controller="Blog" asp-action="Detail" asp-route-id="@blog.Id" class="text-uppercase text-info">
+                @blog.Title
+            </a>
+            <small class="text-secondary float-right">
+                @blog.PostedTime.ToShortDateString()
+            </small>
+        </p>
+            <hr />
+        }
+    </div>
+</div>

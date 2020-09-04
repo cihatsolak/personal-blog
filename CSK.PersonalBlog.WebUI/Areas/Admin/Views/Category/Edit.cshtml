@@ -1,0 +1,8 @@
+﻿@model CategoryModel
+@{
+    ViewData["Title"] = "Kategori Güncelle";
+}
+
+<form asp-action="Edit" class="p-3 w-100" method="post" enctype="multipart/form-data">       
+    @await Html.PartialAsync("_CreateOrUpdate", Model)
+</form>

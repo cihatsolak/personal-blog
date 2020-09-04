@@ -1,0 +1,8 @@
+﻿@model CategoryModel
+@{
+    ViewData["Title"] = "Yeni Kategori Ekle";
+}
+
+<form asp-action="Create" class="p-3 w-100" method="post">
+    @await Html.PartialAsync("_CreateOrUpdate", Model)
+</form>

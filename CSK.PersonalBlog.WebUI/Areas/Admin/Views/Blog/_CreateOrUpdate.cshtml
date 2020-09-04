@@ -1,0 +1,30 @@
+﻿@model BlogModel
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+@Html.HiddenFor(i => i.Id)
+
+<div class="form-group">
+    <label asp-for="Title"></label>
+    <input class="form-control" asp-for="Title" />
+    <span asp-validation-for="Title"></span>
+</div>
+<div class="form-group">
+    <label asp-for="ShortDescription"></label>
+    <input class="form-control" asp-for="ShortDescription" />
+    <span asp-validation-for="ShortDescription"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Description"></label>
+    <textarea class="form-control" asp-for="Description" rows="5"></textarea>
+    <span asp-validation-for="Description"></span>
+</div>
+<div class="form-group">
+    <label asp-for="ImageFile"></label>
+    <div class="custom-file">
+        <input type="file" class="custom-file-input" asp-for="ImageFile">
+        <label class="custom-file-label">Seçiniz</label>
+    </div>
+</div>
+<input type="submit" value="Kaydet" class="btn btn-success btn-block" />
+

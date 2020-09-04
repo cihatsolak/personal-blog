@@ -1,0 +1,103 @@
+﻿@model BlogViewModel
+@{
+    ViewData["Title"] = "Gönderi Detayı";
+    var commentList = (List<CommentViewModel>)ViewBag.Comments;
+}
+<!-- İçerik Sütunu Gönder -->
+    <div class="col-lg-12">
+
+        <!-- Başlık -->
+        <h1 class="mt-4">@Model.Title</h1>
+
+        Author
+        <p class="lead">
+            by
+            <a href="#">Start Bootstrap</a>
+        </p>
+
+        <hr>
+
+        <!-- Tarih / Saat -->
+        <p>
+            <i class="fas fa-clock"></i>
+            @Model.PostedTime.ToLongDateString()
+        </p>
+
+        <hr>
+
+        <!-- Önizleme resmi -->
+        <getblogimage id="@Model.Id" blog-image-type="BlogDetail"></getblogimage>
+
+        <hr>
+
+        <!-- Mesaj İçeriği -->
+        @Html.Raw(Model.Description)
+
+        <hr>
+
+        <!-- Yorum Formu -->
+        <div class="card my-4">
+            <h5 class="card-header">Yorum Yaz</h5>
+            <div class="card-body">
+                <form method="post" asp-action="AddToComment">
+                    <input type="hidden" name="BlogId" value="@Model.Id" />
+                    <div class="form-group">
+                        <label for="AuthorName">Adınız:</label>
+                        <input type="text" name="AuthorName" class="form-control" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="AuthorEmail">E-Posta Adresi:</label>
+                        <input type="email" name="AuthorEmail" class="form-control" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="Description">Yorumunuz:</label>
+                        <textarea name="Description" class="form-control" rows="3" required></textarea>
+                    </div>
+                    <button type="reset" class="btn btn-danger mr-2">Vazgeç</button>
+                    <button type="submit" class="btn btn-primary">Gönder</button>
+                </form>
+            </div>
+        </div>
+
+        <!-- İç içe yorum içeren yorum -->
+        <getblogcomments comments="@commentList"></getblogcomments>
+
+    </div>
+
+@section JavaScript{
+    <script type="text/javascript">
+        //Create Form
+        function showCommentForm(parentCommentId, blogId) {
+            let html = `<div class="card my-4"> <h5 class="card-header">Yorum Yaz</h5>
+                                <div class="card-body">
+                                    <form method="post" action="/Blog/AddToComment">
+                                        <input type="hidden" name="BlogId" value="${blogId}"/>
+                                        <input type="hidden" name="ParentCommentId" value="${parentCommentId}"/>
+                                        <div class="form-group">
+                                            <label for="AuthorName">Adınız:</label>
+                                            <input type="text" name="AuthorName" class="form-control" required/>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="AuthorEmail">E-Posta Adresi:</label>
+                                            <input type="email" name="AuthorEmail" class="form-control" required/>
+                                        </div>
+                                        <div class="form-group">
+                                            <label for="Description">Yorumunuz:</label>
+                                            <textarea name="Description" class="form-control" rows="3" required></textarea>
+                                        </div>
+                                        <button type="reset" class="btn btn-danger mr-2" onclick="hideCommentForm(${parentCommentId})">Vazgeç</button>
+                                        <button type="submit" class="btn btn-primary">Gönder</button>
+                                    </form>
+                                </div>
+                            </div>`;
+
+            $("#commentBox" + parentCommentId).html(html);
+        }
+
+        //DeleteForm
+        function hideCommentForm(parentCommentId) {
+            $("#commentBox" + parentCommentId).html("");
+        }
+
+    </script>
+}
