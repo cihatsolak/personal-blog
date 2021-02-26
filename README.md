@@ -1,6 +1,6 @@
 ## Personel Blog
 
-#### Warning: I have no aesthetic concerns in terms of design. The main goal here is to build a solid backend infrastructure.
+#### Stimulate: I have no aesthetic concerns in terms of design. The main goal here is to build a solid backend infrastructure.
 
 ![home](https://user-images.githubusercontent.com/54249736/92285263-89df9a00-ef0c-11ea-9006-7997a7e502b0.png)
 
