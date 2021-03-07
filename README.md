@@ -16,31 +16,31 @@ Basically, in my project that I developed with the aspnetcore structure, I reduc
 
 ![prop](https://user-images.githubusercontent.com/54249736/92285406-e0e56f00-ef0c-11ea-960d-b16ec096fd0f.png)
 
-#### Uploaded Packages (CSK.PersonalBlog.Business)
+#### Installed Packages (CSK.PersonalBlog.Business)
  * FluentValidation.AspNetCore
  * NLog
  * NLog.Config
  * Swashbuckle.AspNetCore
  * System.IdentityModel.Tokens.Jwt
  
-#### Uploaded Packages (CSK.PersonalBlog.DataAccess)
+#### Installed Packages (CSK.PersonalBlog.DataAccess)
  * Microsoft.EntityFrameworkCore
  * Microsoft.EntityFrameworkCore.Design
  * Microsoft.EntityFrameworkCore.SqlServer
  * Microsoft.EntityFrameworkCore.Tools
 
-#### Uploaded Packages (CSK.PersonalBlog.DTO)
+#### Installed Packages (CSK.PersonalBlog.DTO)
  * Microsoft.AspNetCore.Http
   
-#### Uploaded Packages (CSK.PersonalBlog.Entities)
+#### Installed Packages (CSK.PersonalBlog.Entities)
  * Not Found.
 
-#### Uploaded Packages (CSK.PersonalBlog.WebApi)
+#### Installed Packages (CSK.PersonalBlog.WebApi)
  * AutoMapper.Extensions.Microsoft.DependencyInjection
  * Microsoft.AspNetCore.Authentication.JwtBearer
  * Microsoft.AspNetCore.Mvc.NewtonsoftJson
 
-#### Uploaded Packages (CSK.PersonalBlog.WebUI)
+#### Installed Packages (CSK.PersonalBlog.WebUI)
  * AutoMapper.Extensions.Microsoft.DependencyInjection
  * FluentValidation.AspNetCore
  * Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation
