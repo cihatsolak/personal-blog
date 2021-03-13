@@ -1,4 +1,4 @@
-## Personel Blog
+## Personel Blog Net Core MVC & API
 
 ![home](https://user-images.githubusercontent.com/54249736/92285263-89df9a00-ef0c-11ea-9006-7997a7e502b0.png)
 
